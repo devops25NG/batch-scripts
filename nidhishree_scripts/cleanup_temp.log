@@ -1,0 +1,7 @@
+Tue Oct  7 14:48:25 UTC 2025: starting cleanup of /tmp/temp_prac
+find: invalid argument `+Days' to `-mtime'
+Tue Oct  7 14:48:25 UTC 2025: cleanup completed.
+Tue Oct  7 14:50:54 UTC 2025: starting cleanup of /tmp/temp_prac
+Tue Oct  7 14:50:54 UTC 2025: cleanup completed.
+Tue Oct  7 14:52:54 UTC 2025: starting cleanup of /tmp/temp_prac
+Tue Oct  7 14:52:54 UTC 2025: cleanup completed.
