@@ -16,7 +16,7 @@ cd batch-scripts
 ### 2. Create and Switch to Your Branch
 Name your branch using your name. Example for Rahul:
 ```bash
-git checkout -b <your-name-branch>
+git checkout -b <your-name>
 ```
 
 Other examples:
@@ -94,4 +94,38 @@ Each batch member:
 5. Gets merged into `main`.  
 
 This keeps the repository **organized, clean, and collaborative**.
+
+---
+
+## 📝 Git Commit Message Shortcuts (Conventional Commits)
+
+To keep commit history clean and consistent, follow these commit message types:
+
+| Prefix     | Meaning                                                                 | Example |
+|------------|-------------------------------------------------------------------------|---------|
+| **feat:**  | New feature added to the codebase                                       | `feat: add login script` |
+| **fix:**   | A bug fix                                                              | `fix: correct file path in backup script` |
+| **docs:**  | Documentation only changes (README, comments)                          | `docs: update contribution guide` |
+| **style:** | Changes that don’t affect logic (formatting, spacing, linting)          | `style: format shell script with tabs` |
+| **refactor:** | Code changes that neither fix a bug nor add a feature (improvement) | `refactor: simplify loop in monitor script` |
+| **test:**  | Adding or updating tests                                               | `test: add test cases for string reverse` |
+| **chore:** | Maintenance tasks (build, configs, dependencies, CI/CD)                 | `chore: update gitignore for temp files` |
+| **perf:**  | Performance improvements                                               | `perf: optimize CPU usage in monitor script` |
+| **ci:**    | Continuous integration / deployment changes                            | `ci: add GitHub Actions workflow` |
+
+### ✅ Format
+```
+<type>: <short description>
+
+[optional body]
+
+[optional footer]
+```
+
+### Examples
+```bash
+git commit -m "feat: add AQ1.sh script for user input"
+git commit -m "fix: correct syntax error in AQ3.sh"
+git commit -m "docs: update README with workflow steps"
+```
 
