@@ -1,0 +1,15 @@
+total 44
+-rw-r--r--. 1 ec2-user ec2-user  56 Oct  7 02:25 AQ1.sh
+-rw-r--r--. 1 ec2-user ec2-user 740 Oct  8 18:25 AQ2.sh
+-rw-r--r--. 1 ec2-user ec2-user 248 Oct  9 05:27 AQ3.0.sh
+-rw-r--r--. 1 ec2-user ec2-user 115 Oct  7 08:02 AQ3.sh
+-rw-r--r--. 1 ec2-user ec2-user 175 Oct  9 00:12 AQ4.sh
+-rw-r--r--. 1 ec2-user ec2-user 165 Oct  9 00:25 AQ5.sh
+-rw-r--r--. 1 ec2-user ec2-user 146 Oct  8 18:21 AQ6.sh
+-rw-r--r--. 1 ec2-user ec2-user 231 Oct  8 17:35 AQ7.sh
+-rw-r--r--. 1 ec2-user ec2-user 103 Oct  8 17:46 AQ8.sh
+-rw-r--r--. 1 ec2-user ec2-user  25 Oct  9 05:09 README.md
+-rw-r--r--. 1 ec2-user ec2-user  26 Oct  9 00:15 data.txt
+-rw-r--r--. 1 ec2-user ec2-user   0 Oct  9 05:56 emptyfile
+-rw-r--r--. 1 ec2-user ec2-user   0 Oct  9 00:35 hello.txt
+drwxr-xr-x. 2 ec2-user ec2-user 118 Oct  9 05:46 qa_questions
