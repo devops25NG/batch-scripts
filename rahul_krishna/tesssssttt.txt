@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+time=$(TIME %H%M%S)
+
+
+echo "now time is $time"

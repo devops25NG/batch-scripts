@@ -1,0 +1,62 @@
+.:
+1
+1.txt
+2
+3
+a
+a.txt
+ee
+kd
+king
+ls.txt
+map
+queen
+re
+table.txt
+table2
+test
+test-cd.txt
+zx
+
+./1:
+
+./2:
+
+./3:
+
+./king:
+xc
+
+./king/xc:
+test-cd.txt
+
+./queen:
+xc
+
+./queen/xc:
+test-cd.txt
+
+./test:
+q
+
+./test/q:
+path.txt
+total 28
+drwxr-xr-x. 2 ec2-user ec2-user    6 Sep  7 12:33 1
+-rw-r--r--. 1 ec2-user ec2-user  151 Sep  8 16:21 1.txt
+drwxr-xr-x. 2 ec2-user ec2-user    6 Sep  7 12:33 2
+drwxr-xr-x. 2 ec2-user ec2-user    6 Sep  7 12:33 3
+-rw-r--r--. 1 ec2-user ec2-user   92 Sep  5 11:08 a
+-rw-r--r--. 1 ec2-user ec2-user 2588 Sep  9 06:46 a.txt
+-rw-r--r--. 1 ec2-user ec2-user    0 Sep  5 01:15 ee
+-rw-r--r--. 1 ec2-user ec2-user    0 Sep  7 11:38 kd
+drwxr-xr-x. 3 ec2-user ec2-user   16 Sep  5 02:01 king
+-rw-r--r--. 1 ec2-user ec2-user  214 Sep  9 07:08 ls.txt
+-rw-r--r--. 1 ec2-user ec2-user    6 Sep  7 11:46 map
+drwxr-xr-x. 3 ec2-user ec2-user   16 Sep  6 03:59 queen
+-rw-r--r--. 1 ec2-user ec2-user    0 Sep  5 01:15 re
+-rw-r--r--. 1 ec2-user ec2-user  130 Sep  9 01:02 table.txt
+-rw-r--r--. 1 ec2-user ec2-user    0 Sep  9 01:28 table2
+drwxr-xr-x. 3 ec2-user ec2-user   15 Sep  6 03:08 test
+-rw-r--r--. 1 ec2-user ec2-user  583 Sep  7 12:39 test-cd.txt
+-rw-r--r--. 1 ec2-user ec2-user    0 Sep  5 01:15 zx
